@@ -3,7 +3,7 @@
 
 
 specializing in Python & Django, focused on building scalable REST APIs and clean backend architectures.  
-I enjoy designing systems, working with databases, and writing maintainable, production-ready code.
+I enjoy designing systems, working with databases and writing maintainable, production-ready code.
 
 ---
 
@@ -55,5 +55,5 @@ Git, GitHub, Postman
 
 
 <p align="center"><samp>
-  Check out my repos <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnd1Z2ppcXAzNjJiYWFoOXQzOTcya2N3bmh4M2t1dHc4YjV0ajNkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QmGShkWAWid2hzCqHE/giphy.gif" width="15" 
+  Check out my repos 
 </samp></p>
